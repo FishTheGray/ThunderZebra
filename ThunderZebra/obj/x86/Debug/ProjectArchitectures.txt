@@ -1,0 +1,1 @@
+D:\developement\ThunderZebra\ThunderZebra\ThunderZebra.csproj;x86

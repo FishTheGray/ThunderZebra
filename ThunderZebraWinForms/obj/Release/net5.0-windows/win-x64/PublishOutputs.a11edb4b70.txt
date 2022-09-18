@@ -1,0 +1,2 @@
+D:\developement\ThunderZebra\ThunderZebraWinForms\bin\Release\net5.0-windows\versionBeta2.0\ThunderZebraWinForms.pdb
+D:\developement\ThunderZebra\ThunderZebraWinForms\bin\Release\net5.0-windows\versionBeta2.0\ThunderZebraWinForms.exe

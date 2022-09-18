@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ThunderZebraWinForms</id>
+    <version>1.0.0</version>
+    <authors>ThunderZebraWinForms</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net5.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\developement\ThunderZebra\ThunderZebraWinForms\bin\Debug\net5.0-windows\ThunderZebraWinForms.runtimeconfig.json" target="lib\net5.0-windows7.0\ThunderZebraWinForms.runtimeconfig.json" />
+    <file src="D:\developement\ThunderZebra\ThunderZebraWinForms\bin\Debug\net5.0-windows\ThunderZebraWinForms.dll" target="lib\net5.0-windows7.0\ThunderZebraWinForms.dll" />
+  </files>
+</package>

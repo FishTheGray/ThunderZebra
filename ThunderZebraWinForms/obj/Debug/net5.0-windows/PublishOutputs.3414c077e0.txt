@@ -1,0 +1,5 @@
+D:\developement\ThunderZebra\ThunderZebraWinForms\bin\Release\net5.0-windows\publish\ThunderZebraWinForms.exe
+D:\developement\ThunderZebra\ThunderZebraWinForms\bin\Release\net5.0-windows\publish\ThunderZebraWinForms.dll
+D:\developement\ThunderZebra\ThunderZebraWinForms\bin\Release\net5.0-windows\publish\ThunderZebraWinForms.deps.json
+D:\developement\ThunderZebra\ThunderZebraWinForms\bin\Release\net5.0-windows\publish\ThunderZebraWinForms.runtimeconfig.json
+D:\developement\ThunderZebra\ThunderZebraWinForms\bin\Release\net5.0-windows\publish\ThunderZebraWinForms.pdb

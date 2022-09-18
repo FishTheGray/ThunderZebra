@@ -1,0 +1,16 @@
+D:\developement\ThunderZebra\Zebra_console\bin\Release\net5.0\Zebra_console.exe
+D:\developement\ThunderZebra\Zebra_console\bin\Release\net5.0\Zebra_console.deps.json
+D:\developement\ThunderZebra\Zebra_console\bin\Release\net5.0\Zebra_console.runtimeconfig.json
+D:\developement\ThunderZebra\Zebra_console\bin\Release\net5.0\Zebra_console.runtimeconfig.dev.json
+D:\developement\ThunderZebra\Zebra_console\bin\Release\net5.0\Zebra_console.dll
+D:\developement\ThunderZebra\Zebra_console\bin\Release\net5.0\ref\Zebra_console.dll
+D:\developement\ThunderZebra\Zebra_console\bin\Release\net5.0\Zebra_console.pdb
+D:\developement\ThunderZebra\Zebra_console\obj\Release\net5.0\Zebra_console.csprojAssemblyReference.cache
+D:\developement\ThunderZebra\Zebra_console\obj\Release\net5.0\Zebra_console.GeneratedMSBuildEditorConfig.editorconfig
+D:\developement\ThunderZebra\Zebra_console\obj\Release\net5.0\Zebra_console.AssemblyInfoInputs.cache
+D:\developement\ThunderZebra\Zebra_console\obj\Release\net5.0\Zebra_console.AssemblyInfo.cs
+D:\developement\ThunderZebra\Zebra_console\obj\Release\net5.0\Zebra_console.csproj.CoreCompileInputs.cache
+D:\developement\ThunderZebra\Zebra_console\obj\Release\net5.0\Zebra_console.dll
+D:\developement\ThunderZebra\Zebra_console\obj\Release\net5.0\ref\Zebra_console.dll
+D:\developement\ThunderZebra\Zebra_console\obj\Release\net5.0\Zebra_console.pdb
+D:\developement\ThunderZebra\Zebra_console\obj\Release\net5.0\Zebra_console.genruntimeconfig.cache
