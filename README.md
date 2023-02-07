@@ -20,7 +20,7 @@
 # Status
 This Project has been **expired** by the development group(Only myself indeed),And no plan to restore its support.
 # Description
-This only for the personal usage for the contest of UCGC([University Computer Games Championship](http://computergames.caai.cn)).The module of WinForm is main frame of this project ,which is the legacy of windows OS.
+This is a program for the contest of UCGC([University Computer Games Championship](http://computergames.caai.cn)).The module of WinForm is main frame of this project ,which is the legacy of windows OS.
 # Notice
 * Due to the author using a laptop to develope , make sure your **120%** of display scale , or it possibly unable to display normally.
 * WinForm is not longer recommended. 
